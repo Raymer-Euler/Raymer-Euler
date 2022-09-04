@@ -1,8 +1,9 @@
 ### Olá! Eu Sou o Raymer Euler 👋
 
-Estudante. Cursando Engenharia de software,
+✔Estudante. Cursando Engenharia de software,
 
-Apaixonado por Tecnologia!!! 
+😎Apaixonado por Tecnologia!!! 
+
 
 
 
