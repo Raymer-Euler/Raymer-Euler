@@ -1,8 +1,9 @@
 ### Olá! Eu Sou o Raymer Euler 👋
 
 ✔Estudante. Cursando Engenharia de software,
+
  😎Apaixonado por Tecnologia!!!
-  
+<br/>  
 
 ### Soft skills
  <div style="display: inline_block"><br>
