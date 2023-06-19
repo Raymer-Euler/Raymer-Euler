@@ -3,6 +3,7 @@
 ✔Estudante. Cursando Engenharia de software,
 
  😎Apaixonado por Tecnologia!!!
+ 
 <br/>  
 
 ### Soft skills
