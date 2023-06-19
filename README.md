@@ -1,7 +1,6 @@
 ### Olá! Eu Sou o Raymer Euler 👋
 
 ✔Estudante. Cursando Engenharia de software,
-
 😎Apaixonado por Tecnologia!!! 
 
  ### Soft skills
@@ -22,9 +21,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raymer-euler&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-  
    ##
-  
   Contatos
   <div> 
    <a href="https://www.instagram.com/raymersantos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
